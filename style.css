@@ -1,0 +1,27 @@
+#clickspace {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.menubtn, .closebtn {
+  margin:5px;
+}
+
+.sticky {
+  position: absolute;
+  height: auto;
+  clear: both;
+}
+
+.topdiv {
+  height: 30px;
+}
+
+.textdiv {
+  height: 100% - 30px auto;
+  clear: both;
+  padding: 4px;
+}
